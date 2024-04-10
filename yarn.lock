@@ -14383,10 +14383,10 @@ recursive-readdir@2.2.2:
   dependencies:
     minimatch "3.0.4"
 
-redux-localstorage-simple@^2.4.0:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/redux-localstorage-simple/-/redux-localstorage-simple-2.4.1.tgz#b838991de3642977cc6458b277122f7fd8543c0e"
-  integrity sha512-Oij3OAPukQVNqHwakfOXWGAcv254HvFtePIyZQY3tfomG8ruz4BV5FL4WytO4Pz8Ja7i3r9cCTEXvnzgv1xCJg==
+redux-localstorage-simple@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/redux-localstorage-simple/-/redux-localstorage-simple-2.5.1.tgz#d01b1a03786d010ccce0ae6808c64a62dc041ef8"
+  integrity sha512-8HbqBzHoZ4nfL8qyELt4hLd9hNmESCvmXTEBk2mGT23lX8/miJbXz4ZGIF7Eoa1UHikjv+bne3pjC95ub737vA==
   dependencies:
     merge "2.1.1"
 
